@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="strokeColor" format="color"/>
+    <attr name="fillColor" format="color"/>
+    <attr name="radius" format="dimension"/>
+    <attr name="spacing" format="dimension"/>
+    <attr name="num" format="dimension"/>
+    <declare-styleable name="PageIndicator">
+        <attr name="strokeColor"/>
+        <attr name="fillColor"/>
+        <attr name="radius"/>
+        <attr name="spacing"/>
+        <attr name="num"/>
+    </declare-styleable>
+</resources>
